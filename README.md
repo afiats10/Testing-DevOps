@@ -6,3 +6,4 @@ fix: correct failing edge-case tests
 chore: configure CI workflow for Base deployment
 feat: add automated contract verification script
 refactor: optimize test execution time
+chore: add pre-commit lint hook
