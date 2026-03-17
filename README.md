@@ -8,3 +8,4 @@ feat: add automated contract verification script
 refactor: optimize test execution time
 chore: add pre-commit lint hook
 docs: add troubleshooting section
+fix: resolve dependency version conflict
